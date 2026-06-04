@@ -1,4 +1,4 @@
-rule 
+rule TEST
 {
 	meta:
 		author = "test"
